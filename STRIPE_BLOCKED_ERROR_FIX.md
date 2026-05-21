@@ -78,7 +78,7 @@ const result = await stripe.confirmCardPayment(clientSecret, {
 Ensure your `.env` file contains:
 
 ```
-VITE_STRIPE_PUBLIC_KEY=pk_test_51TYOqZ2MyjxkhvwmFDr9e57nQvoaSXEwZivnA5zJe2zLLlzHioPxFBoj96dFepCLzDkPJOCZjuG8v2d74FDNZuBt00OUtMxN4T
+VITE_STRIPE_PUBLIC_KEY
 ```
 
 ---
